@@ -14,6 +14,10 @@ I am actively expanding my expertise in **quantitative and high-frequency tradin
 **AI & Data:** ML/AI for Trading · Predictive Models · Time-Series Analysis · Data Engineering  
 **Cloud & DevOps:** Docker · Kubernetes · CI/CD · Cloud Services  
 
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+
 ---
 
 ## 📌 Selected Projects
