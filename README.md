@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Hedayat Bazafkan
 
-I am an ambitious software engineer passionate about **blockchain, DeFi, Web3, and trading systems**.  
+A passionate programmer about **blockchain, DeFi, Web3, and trading systems**.  
 Currently, I work at **KuCoin Exchange** as an **API & Trading Systems Developer**, supporting algorithmic traders and building tools for strategy validation and monitoring.  
 I am actively expanding my expertise in **quantitative and high-frequency trading (HFT) system development**, order book analysis, and low-latency trading logic.
 
