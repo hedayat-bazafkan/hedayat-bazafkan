@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Hedayat Bazafkan, you can call me Hed.
 
-I am a fintech systems designer focused on ultra-low-latency trading, crypto market-making, and exchange-grade infrastructure. I work extensively with Puthon, GO and so recently RUST, building high-performance trading engines, real-time market-data pipelines, and execution systems optimized for microsecond-level performance. My work spans HFT architecture, order-book systems, FIX/WebSocket gateway design, and latency-sensitive algorithmic execution across major digital-asset venues.
+I am a fintech systems designer focused on ultra-low-latency trading, crypto market-making, and exchange-grade infrastructure. I work extensively with Python, NodeJs and RUST, building high-performance trading engines, real-time market-data pipelines, and execution systems optimized for microsecond-level performance. My work spans HFT architecture, order-book systems, FIX/WebSocket gateway design, and latency-sensitive algorithmic execution across major digital-asset venues.
 
 I am passionate about **blockchain, DeFi, Web3, and trading systems**. in general
 
