@@ -1,8 +1,12 @@
-# 👋 Hi, I'm Hedayat Bazafkan
+# 👋 Hi, I'm Hedayat Bazafkan, you can call me Hed.
 
-A passionate programmer about **blockchain, DeFi, Web3, and trading systems**.  
-Currently, I work at **KuCoin Exchange** as an **API & Trading Systems Developer**, supporting algorithmic traders and building tools for strategy validation and monitoring.  
-I am actively expanding my expertise in **quantitative and high-frequency trading (HFT) system development**, order book analysis, and low-latency trading logic.
+I am a fintech systems designer focused on ultra-low-latency trading, crypto market-making, and exchange-grade infrastructure. I work extensively with Puthon, GO and so recently RUST, building high-performance trading engines, real-time market-data pipelines, and execution systems optimized for microsecond-level performance. My work spans HFT architecture, order-book systems, FIX/WebSocket gateway design, and latency-sensitive algorithmic execution across major digital-asset venues.
+
+I am passionate about **blockchain, DeFi, Web3, and trading systems**. in general
+
+Currently, I work at **KuCoin Exchange** as an **API & Trading Systems Developer**, supporting algorithmic traders and building tools for strategy validation and monitoring, developing SDKs and helping HFT and MM cleints to overcome their trading issue and also working on connectors for exchanges.
+
+I am actively expanding my expertise in **quant trading and HFT system development**, alongside with DeFi and Dex trading systems.
 
 ---
 
@@ -19,7 +23,24 @@ I am actively expanding my expertise in **quantitative and high-frequency tradin
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
 
 ---
+##🎯 What I’m Working On
 
+High-performance Rust frameworks for HFT and exchange API connectivity
+
+Ultra-fast market-data ingestion, normalization, and backtesting tools
+
+Trading system reliability: fail-safe execution, state handling, and reconciliation
+
+On-chain + off-chain hybrid trading models for digital-asset markets
+---
+##📌 Currently Exploring
+
+Memory-unsafe optimizations and lock-free concurrency patterns
+
+Exchange co-location patterns for crypto venues
+
+Deterministic simulation engines for stress-testing HFT strategies
+---
 ## 📌 Selected Projects
 
 **Algorithmic Trading Engine Prototype** – Modular engine for strategy backtesting and execution.  
@@ -35,8 +56,4 @@ I am actively expanding my expertise in **quantitative and high-frequency tradin
 [LinkedIn](https://www.linkedin.com/in/hedayat-bazafkan-29838043) · [KuCoin Profile](https://www.kucoin.com/) · [Portfolio / Projects]()
 
 ---
-
-## ⚡ Fun Fact
-
-I love designing efficient, real-time systems, exploring blockchain innovations, and applying AI to trading strategies.
 
