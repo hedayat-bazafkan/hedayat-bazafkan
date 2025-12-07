@@ -32,22 +32,19 @@ Ultra-fast market-data ingestion, normalization, and backtesting tools
 Trading system reliability: fail-safe execution, state handling, and reconciliation
 
 On-chain + off-chain hybrid trading models for digital-asset markets
+
 ---
 ##📌 Currently Exploring
 
-Memory-unsafe optimizations and lock-free concurrency patterns
-
-Exchange co-location patterns for crypto venues
-
-Deterministic simulation engines for stress-testing HFT strategies
+1.A Rust based arbitrage engine that works cross-exchnage and perform fast arbitrage trading on crypto tokens between Cex.
+2. Exchange HFT connector, developed by Rust
+  
 ---
 ## 📌 Selected Projects
 
-**Algorithmic Trading Engine Prototype** – Modular engine for strategy backtesting and execution.  
-**Real-Time Crypto Market Data Collector & Pipeline** – Collects order book, trades, and OHLCV data for research.  
-**Copy Trading Synchronization Engine** – Replicates master trader orders to followers in real time.  
-**Latency & Execution Quality Dashboard** – Monitors order execution, slippage, and reliability.  
-**Multi-Exchange API Order Router** – Executes trades across exchanges for liquidity and best execution.  
+**AML-Screening-AI-Agent**  
+**Tokestan: A tokenized RWA exchange that manage the tokens and portfolio using AI-Agents (in progress yet)**
+  
 
 ---
 
