@@ -50,7 +50,7 @@ On-chain + off-chain hybrid trading models for digital-asset markets
 
 ## 📈 Connect with Me
 
-[LinkedIn](https://www.linkedin.com/in/hedayat-bazafkan-29838043) · [KuCoin Profile](https://www.kucoin.com/) · [Portfolio / Projects]()
+[LinkedIn](https://www.linkedin.com/in/hedayat-bazafkan-29838043) · [X](https://x.com/hed_bazafkan) · 
 
 ---
 
